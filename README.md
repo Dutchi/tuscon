@@ -1,2 +1,1 @@
-# tuscon
-Leer 'n bietjie github
+Ons leer hoe om github te gebruik
